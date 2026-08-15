@@ -8,3 +8,5 @@ Git & GitHub Course (Pathy)
 3- Mastered the process of linking a local project to a remote repository on GitHub.
 
 4- Acquired practical skills in pushing code changes, managing branches, and sharing projects securely with team members.
+
+Deepening skills in advanced GitHub features such as Pull Requests, Code Reviews, Branch Protections, and resolving complex Merge Conflicts efficiently in team environments.
