@@ -1,0 +1,10 @@
+Git & GitHub Course (Pathy)
+1- Gained a clear understanding of the fundamental differences between 
+- Git (the local version control system)
+- GitHub (the cloud-based hosting platform).
+
+2- Learned how to initialize local repositories, stage changes, and manage project history effectively using Git commands.
+
+3- Mastered the process of linking a local project to a remote repository on GitHub.
+
+4- Acquired practical skills in pushing code changes, managing branches, and sharing projects securely with team members.
